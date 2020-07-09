@@ -3,7 +3,7 @@
 ## Project : AutoParking System (feat.BARAM)  
   
 지도 교수 : 백주훈 교수님  
-참여 인원 : 15 정명근, 15 전성호, 17 김민재, 16 강동운, 16 남인수, 18 이혜진  
+참여 인원 : 15 정명근, 15 전성호, 17 김민재, 16 강동운, 16 남인수, 18 이혜진
 참여 기간 : 2019.7 ~ 2019.10
 
 ## Development Background  
@@ -20,11 +20,19 @@
 3. 차량 충돌방지 알고리즘  
 4. User Interface (Application)  
 <img src="https://user-images.githubusercontent.com/52377778/86992312-3129a480-c1dc-11ea-86f7-450bf71c74f9.png" width="600" height="200" />  
+
+## Using Language  
+1. V-rep Simulation : C++, Lua Script
+2. ReinForce : Python
+3. DataServer : Python
   
-## System Architecture  
+## System Architecture (BEFORE)
+
+  
+## System Architecture (AFTER)
 <img src="https://user-images.githubusercontent.com/52377778/86992322-37b81c00-c1dc-11ea-9cdf-731fd7c9c73c.png" width="600" height="400" />  
   
-## Hardware Architecture  
+## Hardware Architecture
 <img src="https://user-images.githubusercontent.com/52377778/86992292-266f0f80-c1dc-11ea-84cd-bb781e421fe9.png" width="600" height="400" />  
 <img src="https://user-images.githubusercontent.com/52377778/86992330-3d156680-c1dc-11ea-8ba1-fa65e82e245a.png" width="600" height="400" />  
 
@@ -42,7 +50,6 @@
 사용자가 출차를 요청하면 출구까지 Lifi통신으로 차량을 유도한다.  
 
 ## Project GIF  
-![Git 부릉이](https://user-images.githubusercontent.com/52377778/86998083-95536500-c1ea-11ea-8221-ed5521a617be.gif)  
 
 
 
