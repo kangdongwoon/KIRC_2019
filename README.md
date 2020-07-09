@@ -20,11 +20,6 @@
 3. 차량 충돌방지 알고리즘  
 4. User Interface (Application)  
 <img src="https://user-images.githubusercontent.com/52377778/86992312-3129a480-c1dc-11ea-86f7-450bf71c74f9.png" width="600" height="200" />  
-
-## Using Language  
-1. V-rep Simulation : C++, Lua Script
-2. ReinForce : Python
-3. DataServer : Python
   
 ## System Architecture  
 <img src="https://user-images.githubusercontent.com/52377778/86992322-37b81c00-c1dc-11ea-9cdf-731fd7c9c73c.png" width="600" height="400" />  
