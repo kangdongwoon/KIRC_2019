@@ -26,13 +26,10 @@
 2. ReinForce : Python
 3. DataServer : Python
   
-## System Architecture (BEFORE)
-
-  
-## System Architecture (AFTER)
+## System Architecture  
 <img src="https://user-images.githubusercontent.com/52377778/86992322-37b81c00-c1dc-11ea-9cdf-731fd7c9c73c.png" width="600" height="400" />  
   
-## Hardware Architecture
+## Hardware Architecture  
 <img src="https://user-images.githubusercontent.com/52377778/86992292-266f0f80-c1dc-11ea-84cd-bb781e421fe9.png" width="600" height="400" />  
 <img src="https://user-images.githubusercontent.com/52377778/86992330-3d156680-c1dc-11ea-8ba1-fa65e82e245a.png" width="600" height="400" />  
 
