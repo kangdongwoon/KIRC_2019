@@ -39,13 +39,16 @@
 ## Project Sinario
 시나리오 1  
 <img src="https://user-images.githubusercontent.com/52377778/86992351-469ece80-c1dc-11ea-8e72-9a5e3145150c.png" width="350" height="350" />  
-  
+차량이 들어오면 주차장시스템에서 비어있는 주차공간을 할당하고 경로를 생성한다.  
+
 시나리오 2  
 <img src="https://user-images.githubusercontent.com/52377778/86992357-4999bf00-c1dc-11ea-9177-911440cfbde4.png" width="350" height="350" />  
+주차장내 CCTV를 활용하여 차량의 위치를 트래킹하고 교차로에서 Lifi통신으로 차량을 유도한다.  
   
 시나리오 3  
 <img src="https://user-images.githubusercontent.com/52377778/86992362-4bfc1900-c1dc-11ea-8baf-1a6a87eb798c.png" width="350" height="350" />  
-  
+사용자가 출차를 요청하면 출구까지 Lifi통신으로 차량을 유도한다.  
+
 ## Project GIF  
 
 
