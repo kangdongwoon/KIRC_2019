@@ -50,6 +50,7 @@
 사용자가 출차를 요청하면 출구까지 Lifi통신으로 차량을 유도한다.  
 
 ## Project GIF  
+![Git 부릉이](https://user-images.githubusercontent.com/52377778/86998083-95536500-c1ea-11ea-8221-ed5521a617be.gif)  
 
 
 
