@@ -19,7 +19,7 @@
 2. Lifi (빛의 깜박임으로 통신)  
 3. 차량 충돌방지 알고리즘  
 4. User Interface (Application)  
-![image](https://user-images.githubusercontent.com/52377778/86992312-3129a480-c1dc-11ea-86f7-450bf71c74f9.png)
+<img src="https://user-images.githubusercontent.com/52377778/86992312-3129a480-c1dc-11ea-86f7-450bf71c74f9.png" width="600" height="200" />  
 
 ## Using Language  
 1. V-rep Simulation : C++, Lua Script
@@ -30,21 +30,21 @@
 
   
 ## System Architecture (AFTER)
-<img src="https://user-images.githubusercontent.com/52377778/86992322-37b81c00-c1dc-11ea-9cdf-731fd7c9c73c.png" width="800" height="500" />  
+<img src="https://user-images.githubusercontent.com/52377778/86992322-37b81c00-c1dc-11ea-9cdf-731fd7c9c73c.png" width="600" height="400" />  
   
 ## Hardware Architecture
-<img src="https://user-images.githubusercontent.com/52377778/86992292-266f0f80-c1dc-11ea-84cd-bb781e421fe9.png" width="800" height="500" />  
-<img src="https://user-images.githubusercontent.com/52377778/86992330-3d156680-c1dc-11ea-8ba1-fa65e82e245a.png" width="500" height="500" />  
+<img src="https://user-images.githubusercontent.com/52377778/86992292-266f0f80-c1dc-11ea-84cd-bb781e421fe9.png" width="600" height="400" />  
+<img src="https://user-images.githubusercontent.com/52377778/86992330-3d156680-c1dc-11ea-8ba1-fa65e82e245a.png" width="600" height="400" />  
 
 ## Project Sinario
 시나리오 1  
-<img src="https://user-images.githubusercontent.com/52377778/86992351-469ece80-c1dc-11ea-8e72-9a5e3145150c.png" width="500" height="500" />  
+<img src="https://user-images.githubusercontent.com/52377778/86992351-469ece80-c1dc-11ea-8e72-9a5e3145150c.png" width="350" height="350" />  
   
 시나리오 2  
-<img src="https://user-images.githubusercontent.com/52377778/86992357-4999bf00-c1dc-11ea-9177-911440cfbde4.png" width="500" height="500" />  
+<img src="https://user-images.githubusercontent.com/52377778/86992357-4999bf00-c1dc-11ea-9177-911440cfbde4.png" width="350" height="350" />  
   
-시나리오 3
-<img src="https://user-images.githubusercontent.com/52377778/86992362-4bfc1900-c1dc-11ea-8baf-1a6a87eb798c.png" width="500" height="500" />  
+시나리오 3  
+<img src="https://user-images.githubusercontent.com/52377778/86992362-4bfc1900-c1dc-11ea-8baf-1a6a87eb798c.png" width="350" height="350" />  
   
 ## Project GIF  
 
