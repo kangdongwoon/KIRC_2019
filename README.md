@@ -15,26 +15,41 @@
 어떤 자율주행차량에도 적용가능한 자율발렛 주차시스템을 고안함  
   
 ## Main Feature  
-1. 딥러닝 객체인식 (Yolo Algorithm)
-2. Lifi (빛의 깜박임으로 통신)
-3. 차량 충돌방지 알고리즘
-4. User Interface (Application)
-  
+1. 딥러닝 객체인식 (Yolo Algorithm)  
+2. Lifi (빛의 깜박임으로 통신)  
+3. 차량 충돌방지 알고리즘  
+4. User Interface (Application)  
+![image](https://user-images.githubusercontent.com/52377778/86992312-3129a480-c1dc-11ea-86f7-450bf71c74f9.png)
+
 ## Using Language  
 1. V-rep Simulation : C++, Lua Script
 2. ReinForce : Python
 3. DataServer : Python
   
 ## System Architecture (BEFORE)
-<img src="https://user-images.githubusercontent.com/52673977/73717132-40538480-475c-11ea-8513-fb641a1aa128.png" width="800" height="500" />  
+
   
 ## System Architecture (AFTER)
-<img src="https://user-images.githubusercontent.com/52377778/86989541-962dcc00-c1d5-11ea-8c95-35a59bc03dde.PNG" width="800" height="500" />  
+<img src="https://user-images.githubusercontent.com/52377778/86992322-37b81c00-c1dc-11ea-9cdf-731fd7c9c73c.png" width="800" height="500" />  
   
 ## Hardware Architecture
-<img width="582" alt="hw" src="https://user-images.githubusercontent.com/52673977/77333956-83e36b80-6d67-11ea-809c-83a00d6180e6.png">  
+<img src="https://user-images.githubusercontent.com/52377778/86992292-266f0f80-c1dc-11ea-84cd-bb781e421fe9.png" width="800" height="500" />  
+<img src="https://user-images.githubusercontent.com/52377778/86992330-3d156680-c1dc-11ea-8ba1-fa65e82e245a.png" width="500" height="500" />  
+
+## Project Sinario
+시나리오 1  
+<img src="https://user-images.githubusercontent.com/52377778/86992351-469ece80-c1dc-11ea-8e72-9a5e3145150c.png" width="500" height="500" />  
+  
+시나리오 2  
+<img src="https://user-images.githubusercontent.com/52377778/86992357-4999bf00-c1dc-11ea-9177-911440cfbde4.png" width="500" height="500" />  
+  
+시나리오 3
+<img src="https://user-images.githubusercontent.com/52377778/86992362-4bfc1900-c1dc-11ea-8baf-1a6a87eb798c.png" width="500" height="500" />  
   
 ## Project GIF  
-학습프로그램 GUI  
-![Comebot](https://user-images.githubusercontent.com/52377778/86989198-da6c9c80-c1d4-11ea-82a9-291e643d15d4.gif)  
+
+
+
+
+
 
